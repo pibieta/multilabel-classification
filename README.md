@@ -1,7 +1,7 @@
 # multilabel-classification
 Repository for the Albert Einstein Hospital's data science case.
 
-The jupyter notebook with the analysis can be found [here](notebooks/multilabel-classification.ipynb), aditionally a PDF with the contents of this notebook can be found [here](reports/multilabel-classification - Jupyter Notebook.pdf).
+The jupyter notebook with the analysis can be found [here](notebooks/multilabel-classification.ipynb), aditionally a PDF with the contents of this notebook can be found inside the `reports/` folder.
 
 To run the notebook we recommend to reproduce the same conda environment that was used at development time. To do this:
  * Clone the repository:
