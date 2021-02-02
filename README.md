@@ -1,5 +1,5 @@
 # multilabel-classification
-Repository for the Albert Einstein Hosital's data science case.
+Repository for the Albert Einstein Hospital's data science case.
 
 The jupyter notebook with the analysis can be found [here](notebooks/multilabel-classification.ipynb), aditionally a PDF with the contents of this notebook can be found [here](reports/multilabel-classification - Jupyter Notebook.pdf).
 
